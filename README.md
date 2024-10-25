@@ -68,7 +68,8 @@ The **Blinkit Dashboard** provides insights into customer preferences and sales 
   - Average Sales
   - Sales by `item_visibility`
   - Total Sales per `outlet_type`
-![Slicer](https://github.com/user-attachments/assets/99057438-229b-4a85-85da-c6dfec91535f)
+![Matrix](https://github.com/user-attachments/assets/ce73513e-8d85-432e-9753-a526b0247b6a)
+
 
 
 ### 8. Interactivity Enhancements
@@ -127,5 +128,3 @@ The **Blinkit Dashboard** empowers decision-makers with a comprehensive overview
 - **Total Sales Pie Chart:** A pie chart breaking down sales by item category.
 - **Sales Funnel Chart:** Funnel visualization of sales by outlet location.
 - **Matrix Visualization:** Screenshot of a matrix showing average ratings and sales metrics.
-
-
