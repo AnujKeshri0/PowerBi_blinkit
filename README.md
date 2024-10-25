@@ -1,8 +1,6 @@
-# 🚀 Blinkit Dashboard
 
-![Blinkit Logo](https://example.com/link-to-blinkit-logo)  <!-- Replace with actual Blinkit logo link -->
-
-### 🌐 [Dashboard Link](#)
+ Blinkit Dashboard
+ 
 
 ## 📊 Problem Statement
 
@@ -38,25 +36,31 @@ The **Blinkit Dashboard** provides insights into customer preferences and sales 
   - Average Items per Order
   - Average Sales per Item
 
-![Key Metrics Cards](link_to_your_image)  <!-- Replace with actual image link -->
+![All](https://github.com/user-attachments/assets/da062f76-577b-4a2e-bc44-ccaf1e9b4140)
+
+
 
 ### 5. Sales Analysis Visuals
 - **Fat Content Analysis:** Visualized total sales by `item_fat_content`.
 
-![Fat Content Sales](link_to_your_image)  <!-- Replace with actual image link -->
+![Fat Contain By Sales](https://github.com/user-attachments/assets/56cf20d9-a464-408a-aa2a-3d2d753854d9)
+
 
 - **Line Chart:** Analyzed sales trends over time against `outlet_established_year`.
 
-![Sales Trend Line Chart](link_to_your_image)  <!-- Replace with actual image link -->
+![Line Chart](https://github.com/user-attachments/assets/761bbd3f-8928-4924-921d-41e580f4c91f)
+
 
 ### 6. Total Sales Overview
 - **Pie Chart:** Illustrated distribution of total sales by item category.
 
-![Total Sales Pie Chart](link_to_your_image)  <!-- Replace with actual image link -->
+![Item Type By Sales](https://github.com/user-attachments/assets/2f9b3470-1dca-416c-ab48-c87c85a7b7ff)
+
 
 - **Funnel Chart:** Displayed sales by `outlet_location_type` (Tier 1, Tier 2, Tier 3).
 
-![Sales Funnel Chart](link_to_your_image)  <!-- Replace with actual image link -->
+![Outlet Location](https://github.com/user-attachments/assets/9511c724-d98c-4ed5-bb93-bb45c126a8fa)
+
 
 ### 7. Matrix Visualization
 - Analyzed:
@@ -64,14 +68,17 @@ The **Blinkit Dashboard** provides insights into customer preferences and sales 
   - Average Sales
   - Sales by `item_visibility`
   - Total Sales per `outlet_type`
+![Slicer](https://github.com/user-attachments/assets/99057438-229b-4a85-85da-c6dfec91535f)
 
-![Matrix Visualization](link_to_your_image)  <!-- Replace with actual image link -->
 
 ### 8. Interactivity Enhancements
 - Added slicers for:
   - `item_type`
   - `outlet_location_type`
   - `item_fat_content`
+
+  ![Slicer](https://github.com/user-attachments/assets/99057438-229b-4a85-85da-c6dfec91535f)
+
 
 ### 9. Theme Selection
 - Chose an aesthetically pleasing yellow theme to enhance user experience.
@@ -81,15 +88,16 @@ The **Blinkit Dashboard** provides insights into customer preferences and sales 
 
 ## 📸 Snapshot of Dashboard
 
-![Blinkit Dashboard Snapshot](link_to_your_dashboard_image)  <!-- Replace with actual image link -->
+![Snapshot](https://github.com/user-attachments/assets/5a8207d3-be56-41c7-9002-db2b52518151)
+
 
 ## 📈 Insights
 
 1. **Total Sales Overview:**
-   - **Total Sales:** $X,XXX,XXX
-   - **Unique Items Sold:** XXX
-   - **Average Items Sold per Order:** XX
-   - **Average Sales per Item:** $XX
+   - **Total Sales:** $1.20M
+   - **Unique Items Sold:** 8523
+   - **Average Items Sold per Order:** $140.99
+   - **Average Sales per Item:** 3.9
 
 2. **Fat Content Analysis:**
    - Sales performance varies by fat content, indicating customer preferences for healthier options.
@@ -119,3 +127,5 @@ The **Blinkit Dashboard** empowers decision-makers with a comprehensive overview
 - **Total Sales Pie Chart:** A pie chart breaking down sales by item category.
 - **Sales Funnel Chart:** Funnel visualization of sales by outlet location.
 - **Matrix Visualization:** Screenshot of a matrix showing average ratings and sales metrics.
+
+
